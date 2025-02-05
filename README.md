@@ -1,1 +1,1 @@
-# AICTE-Iinternship-potato-leaf-detection
+# AICTE-Internship-potato-leaf-detection
