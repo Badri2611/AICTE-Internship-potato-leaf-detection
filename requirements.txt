@@ -1,3 +1,5 @@
+streamlit
 tensorflow
-keras
-matplotlib
+numpy
+pandas
+pillow
