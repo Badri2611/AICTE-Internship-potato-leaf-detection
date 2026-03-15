@@ -2,7 +2,7 @@
 🌿 Plant Disease Detection System
 An AI-powered web application designed to help farmers identify diseases in potato leaves instantly. Using Deep Learning, the tool provides a diagnosis, confidence score, and actionable treatment solutions to protect crop yields.
 
-🔗 https://diseasedetectionforpotatoleaf.streamlit.app/
+🔗 https://agroscanweb.streamlit.app/
 
 🚀 Overview
 The system simplifies crop monitoring by allowing users to upload leaf images and receive immediate feedback on plant health.
