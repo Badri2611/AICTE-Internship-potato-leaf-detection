@@ -181,18 +181,6 @@ if page == "Home":
         unsafe_allow_html=True
     )
 
-    st.write("""
-This AI-powered system helps farmers detect **potato leaf diseases** using deep learning.
-
-Upload a leaf image and AgroScan will identify:
-
-• Early Blight  
-• Late Blight  
-• Healthy Leaf  
-
-and provide **treatment recommendations**.
-""")
-
     if os.path.exists("Disease.png"):
         st.image("Disease.png", width="stretch")
 
