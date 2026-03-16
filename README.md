@@ -1,4 +1,4 @@
-# AICTE-Internship-potato-leaf-detection
+# Agroscan
 🌿 Plant Disease Detection System
 An AI-powered web application designed to help farmers identify diseases in potato leaves instantly. Using Deep Learning, the tool provides a diagnosis, confidence score, and actionable treatment solutions to protect crop yields.
 
